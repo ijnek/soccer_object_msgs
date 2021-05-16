@@ -7,5 +7,4 @@
 
 std_msgs/Header header
 std_msgs/Bool observed_top
-geometry_msgs/Point top
-geometry_msgs/Point bot
+geometry_msgs/Point point

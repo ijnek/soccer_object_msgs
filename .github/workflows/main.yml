@@ -28,5 +28,5 @@ jobs:
           required-ros-distributions: foxy
       - uses: ros-tooling/action-ros-ci@v0.2
         with:
-          package-name: soccer_interfaces
+          package-name: soccer_vision_msgs
           target-ros2-distro: foxy

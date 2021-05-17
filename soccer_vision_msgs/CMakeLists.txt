@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(soccer_interfaces)
+project(soccer_vision_msgs)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)

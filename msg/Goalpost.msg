@@ -11,5 +11,5 @@
 # Any node that listens to this message MUST consider both cases.
 
 std_msgs/Header header
-std_msgs/Bool observed_top
+bool observed_top
 geometry_msgs/Point point

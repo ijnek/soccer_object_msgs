@@ -26,6 +26,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/GoalpostArray.msg"
   "msg/FieldLine.msg"
   "msg/FieldLineArray.msg"
+  "msg/Robot.msg"
+  "msg/RobotArray.msg"
   DEPENDENCIES std_msgs geometry_msgs
 )
 

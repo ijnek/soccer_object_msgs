@@ -2,8 +2,8 @@
 Changelog for package soccer_vision_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2021-08-12)
+------------------
 * add Ball msg
 * Contributors: Kenji Brameld
 

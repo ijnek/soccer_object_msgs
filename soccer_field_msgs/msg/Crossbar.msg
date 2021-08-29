@@ -5,16 +5,15 @@ uint8 TYPE_RECTANGULAR_PRISM=3
 
 uint8 type
 
-# The distance from the ground to the lower edge of the crossbar, in metres.
+# Height of cross bar in metres. Measured from the bottom edge to the top edge
+# of the cross bar
 float32 height
 
-# Length of cross bar side ways, in metres. Measured from left edge of left post
-# to the right edge of right post.
-float32 length
-
-# Width of cross bar in metres when facing the goals. Only used if type is
-# round, square or rectangular.
+# Width of cross bar in metres. Measured from left edge of left post, to right edge of right post.
 float32 width
 
-# Depth of cross bar in metres. Only used if type is square or rectangular.
+# Depth of cross bar in metres. Only used if type is rectangular prism.
 float32 depth
+
+# Center point (in x,y,z) of cross bar.
+geometry_msgs/Point center

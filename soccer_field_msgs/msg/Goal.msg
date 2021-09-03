@@ -1,8 +1,11 @@
+# Heading of opening of goal in radians, in field coordinates.
+float32 heading
+
 # Top post of a goal (positive y), in field coordinates.
-GoalPost top_post
+GoalPost left_post
 
 # Bottom post of a goal (negative y), in field coordinates.
-GoalPost bottom_post
+GoalPost right_post
 
-# Only used if type is HL, MSL or SPL
+# Only used if type is HL, MSL, SPL or Junior
 Crossbar[<=1] crossbar

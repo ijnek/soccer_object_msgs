@@ -6,4 +6,4 @@
 
 Package containing ROS2 interfaces related to Soccer.
 
-For more information, see our [Documentation](https://soccer-interfaces.readthedocs.io/)
+For more information, see our [Documentation](https://soccer-object-msgs.readthedocs.io/)

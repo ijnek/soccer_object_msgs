@@ -2,8 +2,8 @@
 Changelog for package soccer_object_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.0 (2022-10-29)
+------------------
 * Deprecate this package (`#13 <https://github.com/ijnek/soccer_object_msgs/issues/13>`_)
 * Contributors: Kenji Brameld
 

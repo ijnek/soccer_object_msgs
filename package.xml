@@ -21,5 +21,9 @@
 
   <export>
     <build_type>ament_cmake</build_type>
+    <deprecated>
+      This package will be removed in ROS J-Turtle.
+      Instead, use packages from ros-sports/soccer_interfaces, which provides similar features with a different API.
+    </deprecated>
   </export>
 </package>
